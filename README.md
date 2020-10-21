@@ -7,7 +7,7 @@ Like el-tooltip of Vue.js plugins with Mobile HTML5.
 ### NPM
 
 ```
-npm i --save vtitle-cil
+npm i --save vtitle-cli
 ```
 
 ### Element-ui
