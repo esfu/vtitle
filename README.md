@@ -7,7 +7,7 @@ like `el-tooltip` of Vue.js plugins for h5.
 ### NPM
 
 ```
-npm install --save vtitle
+npm i --save vtitle-cil
 ```
 
 ### Element-ui
