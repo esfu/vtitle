@@ -1,6 +1,6 @@
 # vtitle
 
-like `el-tooltip` of Vue.js plugins for h5.
+Like el-tooltip of Vue.js plugins with Mobile HTML5.
 
 ## Usage
 
